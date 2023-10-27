@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenombramientoIcfes", "RenombramientoIcfes\RenombramientoIcfes.csproj", "{FB858D53-DB7B-4A44-BAFD-176CF9A21E1B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador", "Instalador\Instalador.vdproj", "{1C8D0202-398C-4A2E-A335-51B33432F1A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB858D53-DB7B-4A44-BAFD-176CF9A21E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB858D53-DB7B-4A44-BAFD-176CF9A21E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB858D53-DB7B-4A44-BAFD-176CF9A21E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB858D53-DB7B-4A44-BAFD-176CF9A21E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8D0202-398C-4A2E-A335-51B33432F1A3}.Debug|Any CPU.ActiveCfg = Debug
+		{1C8D0202-398C-4A2E-A335-51B33432F1A3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87227A7C-1A40-4DEC-A475-405B3A502327}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://10.20.100.234:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RenombramientoIcfes\\RenombramientoIcfes.csproj
+		SccProjectName1 = RenombramientoIcfes
+		SccLocalPath1 = RenombramientoIcfes
+		SccProjectUniqueName2 = InstaladorRenombramientoIcfes\\InstaladorRenombramientoIcfes.vdproj
+		SccProjectName2 = InstaladorRenombramientoIcfes
+		SccLocalPath2 = InstaladorRenombramientoIcfes
+	EndGlobalSection
+EndGlobal
